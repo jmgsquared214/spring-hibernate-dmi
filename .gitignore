@@ -1,0 +1,6 @@
+war/
+/out/
+spring-hibernate.iml
+/gwt-unitCache/
+/.idea/
+spring-hibernate-dmi.iml
